@@ -17,9 +17,13 @@
 * เน้นสถาบันการศึกษา
 
 ## มือใหม่ควรรู้อะไรบ้าง
-* การติดตั้ง; วิธี config ภาษาไทย; วิธีแบ่ง partition
-* ลงฟอนท์ TH Sarabun New
+* การติดตั้ง
+** วิธี config ภาษาไทย
+** วิธีแบ่ง partition
+* ดาวน์โหลด Browser ที่ผู้ใช้ส่วนใหญ่คุ้นเคย (เช่น Google Chrome)
+* ลงฟอนท์ TH Sarabun PSK
 * สร้าง USB Drive อัน สำหรับ Install; SD Card 2 แผ่น; การเอา ISO มา flash
+* ติดตั้งไดรเวอร์สำหรับ Printer
 
 ## หมายเหตุ
 
