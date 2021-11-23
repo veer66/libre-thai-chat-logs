@@ -20,7 +20,7 @@
 * การติดตั้ง
 ** วิธี config ภาษาไทย
 ** วิธีแบ่ง partition
-* ลงฟอนท์ TH Sarabun PSK
+* ลงฟอนท์ TH Sarabun New
 * สร้าง USB Drive อัน สำหรับ Install; SD Card 2 แผ่น; การเอา ISO มา flash
 
 ## หมายเหตุ
