@@ -22,7 +22,7 @@
 ** วิธี config ภาษาไทย
 ** วิธีแบ่ง partition
 * ดาวน์โหลด Browser ที่ผู้ใช้ส่วนใหญ่คุ้นเคย (เช่น Google Chrome)
-* ลงฟอนท์ TH Sarabun PSK
+* ลงฟอนท์ยอดนิยมอย่าง TH Sarabun New
 * สร้าง USB Drive อัน สำหรับ Install; SD Card 2 แผ่น; การเอา ISO มา flash
 * ติดตั้งไดรเวอร์สำหรับ Printer
 
