@@ -17,9 +17,7 @@
 * เน้นสถาบันการศึกษา
 
 ## มือใหม่ควรรู้อะไรบ้าง
-* การติดตั้ง
-** วิธี config ภาษาไทย
-** วิธีแบ่ง partition
+* การติดตั้ง; วิธี config ภาษาไทย; วิธีแบ่ง partition
 * ลงฟอนท์ TH Sarabun New
 * สร้าง USB Drive อัน สำหรับ Install; SD Card 2 แผ่น; การเอา ISO มา flash
 
